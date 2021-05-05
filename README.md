@@ -10,9 +10,9 @@ To use, type in the name of a transaction and the amount and choose the proper b
 ```
 ## Links
 
-[repo](https://github.com/najuasaad/progressive-budget)
+[Repo](https://github.com/najuasaad/progressive-budget)
 
-[heroku](https://calm-escarpment-52698.herokuapp.com/)
+[Heroku](https://calm-escarpment-52698.herokuapp.com/)
 
 ## Screenshot
 
