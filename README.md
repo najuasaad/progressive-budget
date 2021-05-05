@@ -12,7 +12,7 @@ To use, type in the name of a transaction and the amount and choose the proper b
 
 [repo](https://github.com/najuasaad/progressive-budget)
 
-[heroku]
+[heroku](https://calm-escarpment-52698.herokuapp.com/)
 
 ## Screenshot
 
